@@ -15,6 +15,9 @@ social_links:
 theme: 
 plugins:
   - jekyll-feed
+  
+sass:
+  sass_dir: _sass
 
 # Exclude from processing.
 # The following items will not be processed, by default.
