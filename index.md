@@ -1,5 +1,14 @@
 ---
-layout: home
+layout: post
+title: Research Data Management for Humanities Researchers
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent accumsan eros ac tortor varius dignissim. Nam risus turpis, varius ac venenatis nec, vehicula sit amet dui. Ut vulputate mi non erat lacinia, vitae accumsan ex accumsan. Curabitur hendrerit eget mauris vehicula lacinia. Duis semper posuere dui et porttitor. Ut aliquam, lacus non maximus aliquet, mauris elit tempus augue, non aliquam dolor odio vel purus. Vestibulum aliquam et augue et ultrices. Integer rutrum posuere libero. Nunc et nibh nulla. Fusce felis nisl, ultricies in nibh maximus, faucibus aliquam quam. Aenean sagittis dignissim fringilla. Etiam id arcu lorem. Nullam purus lorem, tristique sit amet ligula nec, sagittis pharetra eros. Praesent sagittis sollicitudin orci, sed consectetur diam egestas lobortis.
+
+## <a id="workshop"></a>Workshop Agenda
+Aenean at vestibulum odio. Duis dapibus, neque id laoreet euismod, enim nisl eleifend turpis, at dictum leo augue a lacus. Aenean porttitor blandit enim. Vivamus at lorem nec dolor ullamcorper fermentum. Etiam mattis est cursus arcu ullamcorper lacinia. Praesent congue elit in tristique efficitur. Ut vitae enim ligula. Integer gravida lobortis eros, at ultrices felis pretium quis. Morbi tristique gravida rutrum. Nam in euismod nisl, vitae suscipit orci. Vivamus dictum dignissim metus vel dictum. Integer tempor vitae nunc eu faucibus.
+
+## <a id="slide"></a>Slide Deck
+Nullam congue rhoncus libero, quis varius magna mattis id. Mauris ac arcu sollicitudin lorem viverra cursus et in leo. Suspendisse vel ullamcorper quam. Donec et auctor sapien, vitae placerat diam. Nam at sagittis nibh, a pharetra risus. In eu volutpat lacus. Morbi odio felis, cursus eget arcu vel, luctus feugiat mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In hac habitasse platea dictumst. Quisque sit amet leo orci. Pellentesque tincidunt rutrum mauris.
+
+Mauris urna elit, tristique sed pellentesque vel, lobortis sed quam. Sed pretium mattis nisi, nec suscipit nisl cursus sed. Duis quis viverra tortor, eu semper dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur blandit quam leo, quis auctor sapien interdum ut. Vivamus id leo et metus varius laoreet ut at urna. Integer ac accumsan nisl, vitae aliquam diam. Maecenas aliquet lacinia magna id tincidunt. Donec sagittis at velit mattis tincidunt. Mauris dictum eleifend nunc, in condimentum eros dictum eget. In ut ullamcorper quam, eget feugiat neque. Phasellus tristique auctor risus eu molestie. Praesent risus velit, pellentesque at ullamcorper a, vestibulum quis mauris. Nam et mauris turpis. Donec aliquam scelerisque libero. Suspendisse feugiat blandit nunc, vel mattis ligula aliquet finibus.
