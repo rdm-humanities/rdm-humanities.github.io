@@ -17,6 +17,7 @@ A significant focus is placed on the ethical dimensions inherent in many researc
 
 ## <a id="slide"></a>Slide Deck
 
+## <a id="references"></a>Resources
 
 ## <a id="contact"></a>Contact
 
