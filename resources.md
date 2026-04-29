@@ -11,10 +11,12 @@ Presentations on “data” from across humanities from our 2021 SSHRC-funded wo
 * Connie Crompton (U. Ottawa). The Bridge Between Innovation and Sustainability: RDM for the Lesbian and Gay Liberation in Canada Project. [https://osf.io/g947n/files/4qfwt](https://osf.io/g947n/files/4qfwt){:target="_blank"}
 * Ewa Czaykowska-Higgins (U. Victoria). Data in Indigenous Language Documentation. [https://osf.io/g947n/files/mx953](https://osf.io/g947n/files/mx953){:target="_blank"}
 * Felicity Tayler (U. Ottawa). Sounding Literature: Data Curation for Communities of Sound. [https://osf.io/g947n/files/3j7bs](https://osf.io/g947n/files/3j7bs){:target="_blank"}
+
 ### Practical Guides
 
 * UBC Data Bites: [https://ubc-library-rc.github.io/rdm/](https://ubc-library-rc.github.io/rdm/){:target="_blank"}
 * KU Leuven RDM Guide: [https://www.kuleuven.be/rdm/en](https://www.kuleuven.be/rdm/en){:target="_blank"}
+
 ### Additional Readings
 
 * Borgman, C. L. (2015). *Big data, little data, no data: Scholarship in the networked world*. MIT Press.  
@@ -28,6 +30,7 @@ Presentations on “data” from across humanities from our 2021 SSHRC-funded wo
 * Harris, A. (2021). *Nanna Bonde Thylstrup – Dataset ethics: Deleting archives, encountering remains*. Digital Democracies Institute. [https://digitaldemocracies.org/nanna-bonde-thylstrup-dataset-ethics-deleting-archives-encountering-remains/](https://digitaldemocracies.org/nanna-bonde-thylstrup-dataset-ethics-deleting-archives-encountering-remains/){:target="_blank"}
 * Harrower, N., Maryl, M., Biro, T., & Immenhauser, B. (2020). *Sustainable and FAIR data sharing in the humanities: Recommendations of the ALLEA Working Group E-Humanities*. Digital Repository of Ireland. [https://repository.dri.ie/catalog/tq582c863](https://repository.dri.ie/catalog/tq582c863){:target="_blank"}
 * Holton, G., Leonard, W. Y., & Pulsifer, P. L. (2022). Indigenous peoples, ethics, and linguistic data. In A. L. Berez-Kroeker, B. McDonnell, E. Koller, & L. B. Collister (Eds.), *The open handbook of linguistic data management* (pp. 49–60). The MIT Press. [https://direct.mit.edu/books/book/5244/The-Open-Handbook-of-Linguistic-Data-Management](https://direct.mit.edu/books/book/5244/The-Open-Handbook-of-Linguistic-Data-Management){:target="_blank"}
+* Kirschenbaum, M. G. (2016). *Track changes: A literary history of word processing.* Harvard University Press.
 * O'Donnell, D. P. (2020). *"Good things come in small packets": How (inter)national digital research infrastructure can support "small data" humanities and cultural heritage research* (No. 001). "Good Things" Research Team, University of Lethbridge. [https://alliancecan.ca/sites/default/files/2022-03/dri-infrastructure-white-paper-good-things-come-in-small-packets.pdf](https://alliancecan.ca/sites/default/files/2022-03/dri-infrastructure-white-paper-good-things-come-in-small-packets.pdf){:target="_blank"}
 * Onuoha, M. (2016). *The library of missing datasets*. MIMI ỌNỤỌHA. [https://mimionuoha.com/the-library-of-missing-datasets](https://mimionuoha.com/the-library-of-missing-datasets){:target="_blank"}
 * Posner, M. (2021, June 14). *What does "data" mean in the humanities?* \[Keynote address\]. Digital Humanities Summer Institute, Victoria, Canada. [https://osf.io/6vepj/wiki/keynote%20--%20posner/](https://osf.io/6vepj/wiki/keynote%20--%20posner/){:target="_blank"}
