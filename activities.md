@@ -15,6 +15,7 @@ title: Activities
 - [Storage Audit Worksheet](https://docs.google.com/document/d/1sBq2tseps_01Hcm5WcdKW5_S-kaP7lWnmkO-PFBUhqQ/edit?usp=sharing){:target="_blank"}
 - [Versioning Worksheet](https://docs.google.com/document/d/1zGX0ajL0qkpjEu_GfmCHyK5ECIeEDm77POERytO4-1M/edit?usp=share_link){:target="_blank"}
 - [README Worksheet](https://docs.google.com/document/d/1C3NchuBMknF3_zXRjrN1xOAjmVGsLeoZAl18Ldlaj_Q/edit?usp=share_link){:target="_blank"}
+- [Data Walkthrough Guide](https://docs.google.com/document/d/1OzUOAbU2epQRKzjbDpDWAclrTqvoWN9AQR_MBM_dtkM/edit?usp=sharing){:target="_blank"}
 - [Sensitive Data Scenarios](https://docs.google.com/document/d/1DCX77OiVkMyA2_Ya-JQQCXBWKZIVuvr6OntKc3NEBQs/edit?usp=sharing){:target="_blank"} 
 
 ### Day 4
