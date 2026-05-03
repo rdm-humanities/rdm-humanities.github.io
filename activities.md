@@ -21,3 +21,5 @@ title: Activities
 ### Day 4
 
 - [FAIR Data Scenarios](https://docs.google.com/document/d/1DCX77OiVkMyA2_Ya-JQQCXBWKZIVuvr6OntKc3NEBQs/edit?usp=sharing){:target="_blank"} 
+- [Licensing Worksheet](https://docs.google.com/document/d/1qK25-Ka8z0TN9hjZWiLv9-F19mlcqA3kSRh7YM1YCVA/edit?usp=sharing){:target="_blank"}
+- [Works in Progress Guide](https://docs.google.com/document/d/1zdzFOA3uol4BCLFg0nEO3NjX-soTuyUR6WuGQDs-eW8/edit?usp=sharing){:target="_blank"} 
