@@ -11,8 +11,6 @@ Participants will gain proficiency in developing comprehensive Data Management P
 
 A significant focus is placed on the ethical dimensions inherent in many research areas in the humanities, addressing sensitive data, informed consent, use of AI, and the crucial principles of cultural sensitivity and Indigenous data sovereignty. The workshop also guides researchers through strategic data sharing by exploring appropriate repositories (disciplinary and generalist), applying robust curation practices, and navigating licensing and persistent identifiers to maximize research impact and compliance with evolving funder and publisher requirements. Upon completion, attendees will be empowered to confidently manage, preserve, and ethically share their research, enhancing the integrity, accessibility, and scholarly impact of their work. 
 
-## <a id="workshop"></a>Workshop Agenda
-
 
 ## <a id="contact"></a>Contact
 
