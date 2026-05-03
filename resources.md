@@ -28,7 +28,7 @@ Presentations on “data” from across humanities from our 2021 SSHRC-funded wo
 * Drucker, J. (2021). *The digital humanities coursebook: An introduction to digital methods for research and scholarship*. Routledge.
 * Duarte, M. E., & Belarde-Lewis, M. (2015). Imagining: Creating spaces for Indigenous ontologies. *Cataloging and Classification Quarterly*, *53*(5–6), 677–702. <https://doi.org/10.1080/01639374.2015.1018396>
 * Eggert, P. (2019). *The work and the reader in literary studies: Scholarly editing and book history*. Cambridge University Press.
-* Elliott, J., SIṈTEN John, ȻOSINIYE, L. E., SELEMTEN, L. C., SELILIYE, B. C., Czaykowska-Higgins, E., Elliott, A., Elliott, O., I,IYMELWET, M. S., Swallow, T., & PENÁĆ, D. U. (2021). AȽȻEȽ SĆȺ: Intersecting relationships in sustainable language reclamation. *7th International Conference on Language Documentation and Conservation*. <https://www.youtube.com/watch?v=1fCT2HMfHWg>
+* Elliott, J., SIṈTEN John, ȻOSINIYE, L. E., SELEMTEN, L. C., Seliliye, B. C., Czaykowska-Higgins, E., Elliott, A., Elliott, O., I,IYMELWET, M. S., Swallow, T., & PENÁĆ, D. U. (2021). AȽȻEȽ SĆȺ: Intersecting relationships in sustainable language reclamation. *7th International Conference on Language Documentation and Conservation*. <https://www.youtube.com/watch?v=1fCT2HMfHWg>
 * First Nations Information Governance Centre. (n.d.). *The First Nations principles of OCAP*. <https://fnigc.ca/ocap-training/>
 * Global Indigenous Data Alliance. (n.d.). *CARE principles for Indigenous data governance*. <https://www.gida-global.org/care>
 * Golub, K., & Liu, Y.-H. (Eds.). (2022). *Information and knowledge organisation in digital humanities: Global perspectives*. Routledge.
