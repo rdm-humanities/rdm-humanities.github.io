@@ -30,6 +30,7 @@ Presentations on “data” from across humanities from our 2021 SSHRC-funded wo
 * Eggert, P. (2019). *The work and the reader in literary studies: Scholarly editing and book history*. Cambridge University Press.
 * Elliott, J., SIṈTEN John, ȻOSINIYE, L. E., SELEMTEN, L. C., Seliliye, B. C., Czaykowska-Higgins, E., Elliott, A., Elliott, O., I,IYMELWET, M. S., Swallow, T., & PENÁĆ, D. U. (2021). AȽȻEȽ SĆȺ: Intersecting relationships in sustainable language reclamation. *7th International Conference on Language Documentation and Conservation*. <https://www.youtube.com/watch?v=1fCT2HMfHWg>
 * First Nations Information Governance Centre. (n.d.). *The First Nations principles of OCAP*. <https://fnigc.ca/ocap-training/>
+* Guerrero, S., López-Cortés, A., García-Cárdenas, J. M., Saa, P., Indacochea, A., Armendáriz-Castillo, I., ... & Paz-y-Miño, C. (2019). A quick guide for using Microsoft OneNote as an electronic laboratory notebook. PLoS computational biology, 15(5), e1006918. <https://journals.plos.org/ploscompbiol/article/file?id=10.1371%2Fjournal.pcbi.1006918&type=printable>
 * Global Indigenous Data Alliance. (n.d.). *CARE principles for Indigenous data governance*. <https://www.gida-global.org/care>
 * Golub, K., & Liu, Y.-H. (Eds.). (2022). *Information and knowledge organisation in digital humanities: Global perspectives*. Routledge. <https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003131816/information-knowledge-organisation-digital-humanities-koraljka-golub-ying-hsang-liu>
 * Haak, L. L., Fenner, M., Paglione, L., Pentz, E., & Ratner, H. (2012). ORCID: A system to uniquely identify researchers. *Learned Publishing*, *25*(4), 259–264. <https://doi.org/10.1087/20120404>
@@ -51,6 +52,7 @@ Presentations on “data” from across humanities from our 2021 SSHRC-funded wo
 * Sadowski, J. (2019). When data is capital: Datafication, accumulation, and extraction. *Big Data & Society*, *6*(1), Article 2053951718820549. <https://doi.org/10.1177/2053951718820549>
 * Schöch, C. (2013). Big? Smart? Clean? Messy? Data in the humanities. *Journal of Digital Humanities*, *2*(3). <http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/>
 * Siddiqui, N. (2025). *Cultural analytics in R: A tidy approach*. Springer.
+* Spence, A., & McCutcheon, V. (2019). *Guide to using OneNote as a Research Notebook*. University of Glasgow. <https://eprints.gla.ac.uk/205017/>
 * Strathman, N. (2019). Digitizing the ancestors: Issues in Indigenous digital heritage projects. *International Journal of Communication*, *13*, 3271–3278. <https://ijoc.org/index.php/ijoc/article/view/8018>
 * Suber, P. (2012). *Open access*. MIT Press. <https://doi.org/10.7551/mitpress/9286.001.0001>
 * Tayler, F., Mitchell, M., Ripp, C., & Dangoisse, P. (2022). *Data primer: Making digital humanities research data public*. eCampusOntario Open Library. https://doi.org/10.5683/SP3/OMLXTZ
