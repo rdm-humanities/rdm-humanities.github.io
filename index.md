@@ -3,6 +3,8 @@ layout: post
 title: Research Data Management for Humanities Researchers
 ---
 
+[We want your feedback!](https://forms.gle/z5HeHWYKGTQcEwSn9)
+
 This intensive four-day hands-on workshop is designed for humanities researchers who want to actively apply best practices in research data management in their own research projects. Recognizing the unique and diverse nature of humanities data—from digitized texts and images to audio recordings and cultural artifacts—the workshop provides practical, actionable strategies across the entire research data lifecycle, from initial planning to long-term preservation and reuse. 
 
 This is a “bring your own data” workshop! Participants should arrive with the research materials they are seeking help in managing. This can be from an existing project or one you are just embarking on! (And we can point you in some directions if you’re looking for data!)
